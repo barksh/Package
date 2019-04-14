@@ -1,0 +1,29 @@
+{
+  "name": "@barksh/package",
+  "version": "1.0.0",
+  "description": ":package: Create template package",
+  "bin": {
+    "barkpack": "barkpack"
+  },
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barksh/Package.git"
+  },
+  "keywords": [
+    "cli",
+    "barksh"
+  ],
+  "author": "WMXPY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barksh/Package/issues"
+  },
+  "homepage": "https://github.com/barksh/Package#readme",
+  "devDependencies": {
+    "@sudoo/triforce": "^1.5.0"
+  }
+}
