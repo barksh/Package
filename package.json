@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/barksh/Package#readme",
   "devDependencies": {
-    "@sudoo/triforce": "^1.5.0"
+    "@sudoo/triforce": "^1.6.0"
   }
 }
